@@ -1,2 +1,2 @@
 # weather
-simple weather 
+simple weather app based on Destination Weather API from https://developer.here.com
